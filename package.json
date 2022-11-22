@@ -2,7 +2,7 @@
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
-  "engines": {
+   "engines": {
     "node": "16.17.1"
   },
   "main": "server/server.js",
@@ -17,8 +17,5 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
-  },
-  "dependencies": {
-    "serve": "^14.1.2"
   }
 }
